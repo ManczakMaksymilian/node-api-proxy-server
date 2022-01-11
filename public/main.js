@@ -53,4 +53,4 @@ weatherForm.addEventListener("submit", (e) => {
 });
 
 // Initial fetch
-fetchWeather("Warsaw");
+fetchWeather("Warsaw"); //You can change this city to whatever you want
